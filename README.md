@@ -1,4 +1,4 @@
-# Тестовое задание для курса Java от ШИФТ
+# Тестовое задание для курса Java ШИФТ
 
 ![Java](https://img.shields.io/badge/Java-22-007396?style=for-the-badge&logo=openjdk)
 ---
